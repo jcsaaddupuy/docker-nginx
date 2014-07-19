@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM jcsaaddupuy/wheezy
 MAINTAINER Jc Saad-Dupuy "jc.saaddupuy@fsfe.org"
 
 # install base packages
